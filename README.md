@@ -16,4 +16,4 @@ currency_pairs = [["AUD","USD",[],portfolio("AUD","USD")],
 # your polygon key
 my_key = "your_key"
 main(currency_pairs, my_key)
-```
+```# polygon-hw-guansli
